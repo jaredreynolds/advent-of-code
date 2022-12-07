@@ -22,6 +22,8 @@
     <None Remove="Input\05\input.txt" />
     <None Remove="Input\06\example.txt" />
     <None Remove="Input\06\input.txt" />
+    <None Remove="Input\07\example.txt" />
+    <None Remove="Input\07\input.txt" />
   </ItemGroup>
 
   <ItemGroup>
